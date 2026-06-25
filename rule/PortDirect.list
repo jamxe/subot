@@ -1,0 +1,6 @@
+# 内容：非标端口直连（80/443 以外端口的流量直连，PT/BT 优化）
+# 数量：3条
+# 来源：Aethersailor Custom_OpenClash_Rules（原仓库已删库，镜像 https://github.com/heunghingwan/Aethersailor-Custom_OpenClash_Rules）
+DST-PORT,1-79
+DST-PORT,81-442
+DST-PORT,444-65535
