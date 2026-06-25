@@ -1,0 +1,9 @@
+# 内容：土耳其商店与支付（oyunfor 及其支付网关 PayTR / iyzico）
+# 数量：5条
+# 说明：oyunfor 及其支付网关固定走同一土耳其节点，避免支付流程跨节点/换 IP 导致 token 失效
+# 注意：3D Secure 验证会跳转到「持卡银行」的 ACS 域名（随银行/卡而变，不在此列）；如 3DS 环节失败，请把你的发卡行域名也加到本表
+DOMAIN-SUFFIX,oyunfor.com
+DOMAIN-SUFFIX,oyunforpay.com
+DOMAIN-SUFFIX,paytr.com
+DOMAIN-SUFFIX,iyzico.com
+DOMAIN-SUFFIX,iyzipay.com
