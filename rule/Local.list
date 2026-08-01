@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,epg.pw
 IP-CIDR,148.135.93.213/32,no-resolve
 DOMAIN-SUFFIX,node1.olelive.com
 
-# Jepoic Website
-DOMAIN-SUFFIX,conversaio.top
+# Own website
+# DOMAIN-SUFFIX,conversaio.top
 
 # America Goverment Website
 DOMAIN-SUFFIX,cdc.gov
